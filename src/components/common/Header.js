@@ -4,7 +4,7 @@ import { Link, IndexLink } from 'react-router';
 const Header = () => {
   return (
     <nav className="navbar navbar-default">
-      <div className="container-fluid">
+      <div className="container-fluid-nav container-fluid">
 
         <div className="navbar-header">
           <button type="button" className="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">

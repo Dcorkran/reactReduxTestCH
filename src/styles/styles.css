@@ -32,3 +32,37 @@ nav {
   flex-direction: column;
   justify-content: center;
 }
+
+#nav-container{
+
+}
+
+nav {
+  margin-bottom: 0!important;
+}
+
+.container-fluid-nav{
+  max-width: 75em;
+}
+
+.jumbo {
+  height: 30em!important;
+}
+
+.jumbo-text-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.jumbo-label-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #7CAD42;
+}
+
+.jumbo-label-text {
+  color: #FFFFFF;
+}
