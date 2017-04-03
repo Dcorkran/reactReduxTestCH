@@ -66,3 +66,21 @@ nav {
 .jumbo-label-text {
   color: #FFFFFF;
 }
+
+.power-at-scale-img {
+  height: 16em;
+}
+
+.spot-container{
+  margin-top: 2em;
+}
+
+.spot-img-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.homepage-bg{
+  background-color: #F7F7F7;
+}
