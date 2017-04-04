@@ -84,3 +84,18 @@ nav {
 .homepage-bg{
   background-color: #F7F7F7;
 }
+
+.spot-header-text{
+  
+}
+
+.spot-info-text{
+  font-size: 1.25em;
+}
+
+.spot-light-text{
+  font-style: italic;
+  font-weight: 300;
+  font-size: 1.25em;
+  color: #777777;
+}
